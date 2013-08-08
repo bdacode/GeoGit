@@ -452,6 +452,7 @@
    <module>../core</module>
    <module>../storage</module>
    <module>../osm</module>
+   <module>../gui</module>
    <module>../cli</module>
    <module>../cli-app</module>
    <module>../geotools</module>
